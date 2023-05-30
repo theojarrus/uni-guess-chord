@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChordGame</string>
+
+    <string name="menu_title">Угадай аккорд</string>
+    <string name="menu_start">Начать</string>
+
+    <string name="result_title">Результат</string>
+    <string name="result_time">Время: %s</string>
+    <string name="result_score">Счёт: %s</string>
+    <string name="result_menu">Меню</string>
+    <string name="result_report">Отчёт</string>
+
+    <string name="report_back">Назад</string>
+    <string name="report_title">Отчёт</string>
+    <string name="report_correct">Верно</string>
+    <string name="report_incorrect">Неверно</string>
+
+    <string name="guitar">Guitar</string>
+    <string name="piano">Piano</string>
+    <string name="ukulele">Ukulele</string>
+
+
+</resources>
